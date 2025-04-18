@@ -3,7 +3,7 @@
 ![Screenshot](screenshots/homepage.png)
 
 ## Description
-This is a custom WordPress website developed for Instituto 3C. The project focused on responsive design, performance optimization, and user-friendly content management.
+This is a custom Next.js website developed for Acessio. The project focused on responsive design, performance optimization, and user-friendly content management.
 
 ## Technologies Used
 - Next.js
